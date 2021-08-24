@@ -5111,8 +5111,7 @@ Seach listing Page
 Login register and recover password Page
 ******************/
 .login-register {
-  background-size: cover;
-  background-repeat: no-repeat;
+  background-repeat: repeat scroll 0 0;
   background-position: center center;
   height: 100%;
   width: 100%;
